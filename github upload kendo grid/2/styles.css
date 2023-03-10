@@ -1,0 +1,31 @@
+#btn1:hover {
+    background-color: #a7008f;
+    border: 0px;
+    color: white;
+}
+
+#grid {
+    background-color: rgb(226, 238, 245);
+    color: rgb(14, 13, 13);
+} 
+
+.critical {
+    background-color: rgba(21, 211, 47, 0.76);
+    color: black;
+    border: #1d131b;
+}
+
+
+.warning {
+    background-color: rgba(12, 84, 151, 0.671);
+    color: white;
+    border: #1d131b;
+
+}
+
+.ok {
+    background-color: rgba(228, 30, 73, 0.753);
+    color: rgb(252, 249, 249);
+    border: #1d131b;
+}
+
